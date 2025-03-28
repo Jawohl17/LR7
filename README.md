@@ -1,3 +1,5 @@
+Виконав самостійно студент групи РПЗ-23 А Шевченко Артем.
+
 # Laboratory Work № 7
 ## Topic: Creating Script Scenarios and Determining System Hardware Configuration
 
